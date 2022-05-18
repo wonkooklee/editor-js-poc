@@ -1,0 +1,21 @@
+{
+  "name": "@editorjs/cookie",
+  "version": "1.0.0",
+  "description": "Cookie Tool for Editor.js",
+  "main": "vuetify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "editor.js",
+    "editorjs",
+    "tool",
+    "wysiwyg",
+    "cookie"
+  ],
+  "author": {
+    "name": "Wonkook Lee",
+    "email": "const.wonkook@gmail.com"
+  },
+  "license": "ISC"
+}
